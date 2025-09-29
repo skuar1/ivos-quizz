@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    {/* organiza os returns em uma estrutura html  */}
     <Header></Header>
     <QuestionCard></QuestionCard>
 

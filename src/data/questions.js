@@ -67,5 +67,6 @@ const questions = [
     points: 2 
     } 
    ]
-
-export default questions
+   export default questions
+   // array que armazena todas as perguntas e suas respostas corretas
+   //é exportado e deve ser utilizado em "questionsCard" para corrigir as respostas do usuário
