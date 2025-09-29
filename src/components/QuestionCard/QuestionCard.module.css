@@ -1,0 +1,25 @@
+.QuestionSec{
+    background: antiquewhite;
+    text-align: center;
+
+    padding: 1.5rem
+}
+/* .AnswersField{
+
+} */
+.AnswersField button{
+    background-color: rgb(77, 161, 209);
+    border: none;
+    margin: 5px;
+    border-radius: 5px;
+
+    width: 250px;
+    height: 50px;
+
+    color: white;
+
+    cursor: pointer;
+}
+.AnswersField button:hover{
+    filter: grayscale(40%);
+}

@@ -67,7 +67,5 @@ const questions = [
     points: 2 
     } 
    ]
-   
-
 
 export default questions
