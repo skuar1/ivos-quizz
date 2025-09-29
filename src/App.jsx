@@ -1,12 +1,13 @@
 import { useState } from 'react'
 import './App.module.css'
+import Header from './components/header/index'
 
 function App() {
   const [count, setCount] = useState("question")
 
   return (
     <>
-    <p>i work!</p>
+    <Header></Header>
     </>
   )
 }

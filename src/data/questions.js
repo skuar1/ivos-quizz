@@ -1,4 +1,4 @@
-[ 
+const questions = [ 
     { 
     id: 1, 
     question: "Qual hook é usado para gerenciar estados em componentes  funcionais?", 
