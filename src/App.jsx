@@ -2,11 +2,10 @@ import { useState } from 'react'
 import './App.module.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState("question")
 
   return (
     <>
-    <h1>Quiz</h1>
     <p>i work!</p>
     </>
   )
